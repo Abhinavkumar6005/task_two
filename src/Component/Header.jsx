@@ -5,6 +5,7 @@ export default function Header() {
   return (
     <div>
         <Link to="/products">Products</Link>
+        <Link to="/timmer">timer</Link>
     </div>
   )
 }
